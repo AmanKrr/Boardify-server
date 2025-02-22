@@ -1,0 +1,5 @@
+# virtual env
+venv/
+
+# ingore cache
+app/**/__pycache__/
