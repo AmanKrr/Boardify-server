@@ -3,3 +3,6 @@ venv/
 
 # ingore cache
 app/**/__pycache__/
+
+# vs files
+.DS_Store
