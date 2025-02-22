@@ -4,6 +4,8 @@ Bordify Server is a backend service built with **FastAPI** that enables the crea
 
 ## Features
 
+- **MongoDB Integration**: Efficient data storage and retrieval.
+- **Redis Caching**: Optimized performance and real-time event handling.
 - **Public & Private Rooms**: Create and manage rooms with different visibility settings.
 - **FastAPI-Based Backend**: High-performance, asynchronous API.
 - **WebSockets Support**: Real-time communication for seamless collaboration.
